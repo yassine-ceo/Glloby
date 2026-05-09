@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Exclude potential dynamic/private routes from crawling if needed
+Disallow: /room/
+Disallow: /messages
+
+Sitemap: https://glloby.com/sitemap.xml
