@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /inbox
+Disallow: /messages
+
+Sitemap: https://glloby.app/sitemap.xml
